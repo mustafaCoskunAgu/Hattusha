@@ -1,5 +1,5 @@
 # Hattusha
-Multiplex Network Embedding
+Multiplex Embedding of Biological Networks Using Topological Similarity of Different Layers
 # This code tested on python 3.6 and Matlab R2020b for Drug Repositioning
 
 #Steps to run
